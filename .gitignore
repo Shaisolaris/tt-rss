@@ -1,5 +1,4 @@
 Thumbs.db
-/.env
 /docker-compose.override.yml
 /.app_is_ready
 /messages.mo
@@ -12,9 +11,9 @@ Thumbs.db
 /feed-icons/*
 /cache/*/*
 /lock/*
-/.vscode/settings.json
 /vendor/**/.git
 /.phpunit*cache
 /.phpstan-tmp
 /.rector-tmp
 /.tools/
+config.bat
